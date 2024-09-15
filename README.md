@@ -1,3 +1,4 @@
 # natikier.github.io
-Website built with Web Design Class
- ---a place to hold me files
+This will hold my work (files) for Web Design Class.
+This will also be the website built with those files.
+
